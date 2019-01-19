@@ -1,0 +1,78 @@
+GEO,COUNTRY,ABS_MARGIN_MAX,ABS_MARGIN_AVG,ABS_MARGIN_SUM,SUBGROUP
+AP        ,IN              ,3910230,159443,34758581,XLARGE
+AP        ,KR              ,3701398,63970,11770533,XLARGE
+AP        ,LK,349036,192876,385753,XLARGE
+AP        ,TW              ,235085,31938,3353529,LARGE
+AP        ,HK              ,518952,20408,1571421,LARGE
+AP        ,ID              ,493970,81709,3758618,LARGE
+AP        ,MY              ,278924,65105,2604194,LARGE
+AP        ,SG              ,237085,33184,2256480,MEDIUM
+AP        ,TH              ,249302,55783,3346956,LARGE
+AP        ,MO,52054,25464,127320,SMALL
+AP        ,PH              ,215822,47296,2270201,MEDIUM
+AP        ,VN,38934,12156,340362,SMALL
+AP        ,BD,335617,185979,1115875,MEDIUM
+AP        ,BN,18928,10106,20213,SMALL
+AP        ,KH,44722,29118,58235,SMALL
+AP        ,NP,1837,1837,1837,SMALL
+CE        ,RU              ,944722,87983,8974296,XLARGE
+CE        ,CZ              ,611342,62100,4657525,LARGE
+CE        ,PL              ,457745,74181,9198484,LARGE
+CE        ,BG              ,695000,113466,1248121,MEDIUM
+CE        ,HR              ,375417,47540,2139293,MEDIUM
+CE        ,HU              ,418874,68127,4564514,LARGE
+CE        ,RO              ,194652,87570,1488695,MEDIUM
+CE        ,SK              ,79160,38642,309133,SMALL
+CE        ,SI              ,263252,38151,2365337,MEDIUM
+CE        ,UA              ,127094,69641,417846,MEDIUM
+CE        ,AM,96045,96045,96045,XSMALL
+CE        ,AZ              ,361157,164878,659510,XSMALL
+CE        ,LV              ,210756,32963,329627,SMALL
+CE        ,LT              ,108610,15646,406789,SMALL
+CE        ,UZ              ,423140,297761,2679845,LARGE
+CE        ,BY              ,16595,13652,27305,XSMALL
+CE        ,BA              ,78169,16000,127996,XSMALL
+CE        ,EE              ,23411,15135,30269,XSMALL
+CE        ,KG              ,6403,6403,6403,XSMALL
+CE        ,MD,23000,23000,23000,XSMALL
+EA        ,SA              ,945984,190300,7802294,XLARGE
+EA        ,ZA              ,574256,88439,13354261,LARGE
+EA        ,TR              ,451393,73131,4095351,LARGE
+EA        ,AE              ,487434,68434,10675681,LARGE
+EA        ,EG              ,336342,78216,5631568,MEDIUM
+EA        ,KE              ,669588,266809,8804708,MEDIUM
+EA        ,KW              ,350000,50610,2479877,MEDIUM
+EA        ,MA              ,122347,36151,469964,SMALL
+EA        ,NG              ,652138,310045,12401805,XLARGE
+EA        ,OM              ,321485,61034,1281718,MEDIUM
+EA        ,PK              ,245783,59268,4800733,MEDIUM
+EA        ,QA              ,1104000,135831,8557350,XLARGE
+EA        ,DZ              ,610070,134769,3369233,LARGE
+EA        ,AO              ,433985,162080,1296642,MEDIUM
+EA        ,BH              ,46209,14845,341437,SMALL
+EA        ,JO              ,264113,46160,2861912,MEDIUM
+EA        ,SZ,22197,20456,40912,XSMALL
+EA        ,TN              ,95397,43410,303873,SMALL
+EA        ,BW              ,31523,31523,31523,MEDIUM
+EA        ,BF              ,44390,44390,44390,XSMALL
+EA        ,ET              ,110328,95258,1143094,SMALL
+EA        ,IQ              ,78624,52659,263293,SMALL
+EA        ,ML              ,35731,35731,71461,XSMALL
+EA        ,MZ              ,194634,175047,1225330,XSMALL
+EA        ,TZ              ,34307,21280,212800,XSMALL
+EA        ,ZW              ,55085,47184,141553,SMALL
+LA        ,AR              ,97000,43070,732196,MEDIUM
+LA        ,BR              ,1447227,107326,15240314,XLARGE
+LA        ,CL              ,5137,5137,5137,MEDIUM
+LA        ,CO              ,639540,57680,4383673,LARGE
+LA        ,MX              ,210096,26758,401370,LARGE
+LA        ,EC              ,10260,10260,20520,LARGE
+LA        ,PE              ,84615,30631,183785,MEDIUM
+LA        ,UY              ,102000,35948,467328,MEDIUM
+LA        ,VE              ,359255,213352,853407,LARGE
+LA        ,CR              ,99842,42207,337658,MEDIUM
+LA        ,DO              ,36855,36855,36855,SMALL
+LA        ,SV              ,227897,66621,266485,MEDIUM
+LA        ,GT              ,12242,3966,31727,SMALL
+LA        ,HN              ,1065,1065,1065,SMALL
+LA        ,PA              ,15814,11873,35619,SMALL
